@@ -9,6 +9,4 @@ public class Triangle extends Shape {
         this.base = base;
         this.height = height;
     }
-
-
 }
