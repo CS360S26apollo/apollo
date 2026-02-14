@@ -2,6 +2,9 @@ package com.example.apollo;
 
     public abstract class Shape {
         protected int x;
+
+        protected String color = "blue";
+
         protected int y;
 
         public Shape(int x, int y) {
