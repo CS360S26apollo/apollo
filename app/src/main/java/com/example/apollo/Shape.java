@@ -5,6 +5,8 @@ package com.example.apollo;
         protected int y;
 
         protected String color = "red";
+        protected String color = "blue";
+
 
         public Shape(int x, int y) {
             this.x = x;
