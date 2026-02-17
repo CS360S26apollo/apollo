@@ -4,7 +4,7 @@ package com.example.apollo;
         protected int x;
         protected int y;
 
-        protected String color = "red";
+        protected String color = "purple";
 
         public Shape(int x, int y) {
             this.x = x;
